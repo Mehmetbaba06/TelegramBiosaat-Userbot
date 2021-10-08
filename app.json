@@ -3,28 +3,28 @@
     "description": "PROFİl RESMİNİZ VE SOYADINIZI gerçek zamanlı bir saate dönüştürmek ve BIO'nuzu otomatik olarak değiştirmek için güçlü Telegram userbot.",
     "repository": "https://github.com/Mehmetbaba06/TelegramBiosaat-Userbot",
     "keywords": [
-        "date time userbot",
-        "changes telegram bio automatically",
-        "turns profile picture in to a real time clock",
-        "turns last name in to a real time clock",
+        "tarih saati userbot",
+        "telegram biyografisini otomatik olarak değiştirir",
+        "profil resmini gerçek zamanlı saate dönüştürür",
+        "soyadını gerçek zamanlı saate dönüştürür",
         "Telegram userbot",
         "Pyrogram userbot"
     ],
     "env": {
         "API_ID": {
-            "description": "Get from my.telegram.org/apps",
+            "description": "Şu yerden alın my.telegram.org/apps",
             "required": true
         },
         "API_HASH": {
-            "description": "Get from my.telegram.org/apps",
+            "description": "Şu yerden alın my.telegram.org/apps",
             "required": true
         },
         "SESSION_NAME": {
-            "description": "A valid Pyrogram session name",
+            "description": "Geçerli bir Pyrogram oturum adı",
             "required": true
         },
         "TIME_ZONE": {
-            "description": "Your time zone (Example: Asia/Kolkata)",
+            "description": "Saat diliminiz (Örnek: Turkish/İstanbul)",
             "required": true
         }
     },
