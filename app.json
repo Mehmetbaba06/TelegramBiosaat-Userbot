@@ -24,7 +24,7 @@
             "required": true
         },
         "TIME_ZONE": {
-            "description": "Saat diliminiz (Örnek: Turkish/İstanbul)",
+            "description": "Saat diliminiz (Örnek: Turkey/İstanbul)",
             "required": true
         }
     },
