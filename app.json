@@ -1,7 +1,7 @@
 {
-    "name": "DATE_TIME_USERBOT-TeLeTiPs",
-    "description": "Powerful Telegram userbot to turn your PROFILE PICTURE & LAST NAME into a real time clock & to change your BIO automatically.",
-    "repository": "https://github.com/teletips/DATE_TIME_USERBOT-TeLeTiPs",
+    "name": "Telegram Bio Userbot",
+    "description": "PROFİl RESİminizi VE SOYADINIZI gerçek zamanlı bir saate dönüştürmek ve BIO'nuzu otomatik olarak değiştirmek için güçlü Telegram userbot.",
+    "repository": "https://github.com/Mehmetbaba06/TelegramBiosaat-Userbot",
     "keywords": [
         "date time userbot",
         "changes telegram bio automatically",
