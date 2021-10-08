@@ -1,4 +1,4 @@
-#Powerful quotes & sayings about life
+#Hayat hakkında güçlü alıntılar ve sözler
 
 quotes_teletips = [
 "Herkes için aşk, hiç kimse için nefret.", 
