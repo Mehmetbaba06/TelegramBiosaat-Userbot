@@ -13,35 +13,19 @@
     <img src="https://img.shields.io/github/issues/teletips/DATE_TIME_USERBOT-TeLeTiPs?style=for-the-badge" alt="Issues">
 </p>  
 
-## Config Vars
-1. `API_ID` : Telegram API_ID, get it from my.telegram.org/apps
-2. `API_HASH` : Telegram API_ID, get it from my.telegram.org/apps
-3. `SESSION_NAME` : A valid Pyrogram session name
-4. `TIME_ZONE`: Your time zone (Example: Asia/Kolkata)
+## Yapılandırma Vars
+1. `API_ID` : Telegram API_ID, my.telegram.org/apps
+2. `API_HASH` : Telegram API_ID, my.telegram.org/apps'dan alın
+3. `SESSION_NAME` : Geçerli bir Pyrogram oturum adı
+4. `TIME_ZONE`: Saat diliminiz (Örnek: Turkey/İstanbul)
 
 <p align="center">
 <img src="https://telegra.ph/file/577fd708b51a9c60053f7.jpg">
 <p>
  
-## Deployment Methods
+## Dağıtım Yöntemleri
 
 ### Heroku
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/teletips/DATE_TIME_USERBOT-TeLeTiPs)
-    
-## Credits
-- [TeLe TiPs](https://github.com/teletips)
-- [Thakshaka](https://t.me/thakshakar)
-- [Pyrogram](https://github.com/pyrogram/pyrogram)
 
-## ⚠️ İlk ve Son Uyarı
-
-- Kodun değiştirilmesiNE İzİn VerİlMEZ!!    
-- Bu kodu projelerinizden herhangi birinde kullanmakta özgürseniz, ancak aşağıdakileri README.md eklemelisiniz (Kopyala ve yapıştır)
-- [📞 İletişim](https://t.me/tele_gram_tips_bot)
-```
-##Credits
-- [DATE_TIME Telegram userbot by TeLe TiPs] (https://github.com/teletips/CountdownTimer-TeLeTiPs)
-```
-## Read GNU AFFERO GENERAL PUBLIC LICENSE: 
-[LICENSE](https://github.com/teletips/DATE_TIME_USERBOT-TeLeTiPs/blob/main/LICENSE)
