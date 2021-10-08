@@ -1,5 +1,5 @@
-<h1 align= center>DATE_TIME_USERBOT-TeLeTiPs</h1>
-<h3 align = center>Powerful Telegram userbot to turn your PROFILE PICTURE & LAST NAME into a real time clock & to change your BIO automatically.</h3>
+<h1 align= center>Telegram Bio Saat Userbot</h1>
+<h3 align = center>PROFİl RESİminizi VE SOYADINIZI gerçek zamanlı bir saate dönüştürmek ve BIO'nuzu otomatik olarak değiştirmek için güçlü Telegram userbot.</h3>
 <p align="center">
 <a href="https://python.org"><img src="http://forthebadge.com/images/badges/made-with-python.svg" alt="made-with-python"></a>
 <br>
@@ -34,11 +34,11 @@
 - [Thakshaka](https://t.me/thakshakar)
 - [Pyrogram](https://github.com/pyrogram/pyrogram)
 
-## ⚠️ First & Last Warning
+## ⚠️ İlk ve Son Uyarı
 
-- Changing the code is NOT ALLOWED!!    
-- You are free to use this code in any of your projects, but you MUST include the following in your README.md (Copy & paste)
-- [📞 Contact](https://t.me/tele_gram_tips_bot)
+- Kodun değiştirilmesiNE İzİn VerİlMEZ!!    
+- Bu kodu projelerinizden herhangi birinde kullanmakta özgürseniz, ancak aşağıdakileri README.md eklemelisiniz (Kopyala ve yapıştır)
+- [📞 İletişim](https://t.me/tele_gram_tips_bot)
 ```
 ##Credits
 - [DATE_TIME Telegram userbot by TeLe TiPs] (https://github.com/teletips/CountdownTimer-TeLeTiPs)
